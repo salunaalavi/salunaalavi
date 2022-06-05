@@ -3,7 +3,7 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=salunaalavi&count_private=true&show_icons=true&theme=synthwave)
 
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2336BCF7&duration=4000&center=true&lines=Saluna+Alavi;Fullstack+Developer;PHP%2C+Javascript%2C+Python;Laravel%2C+Vue%202%2C+Tailwind%2C+Bootstrap)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2336BCF7&duration=4000&center=true&lines=Saluna+Alavi;Fullstack+Developer;PHP%2C+Javascript%2C+Python;Laravel%2C+Vue%2C+Vuetify%2C+Bootstrap%2C+NuxtJS)](https://git.io/typing-svg)
 
 <!--[![Saluna Alavi's stats](https://github-readme-stats.vercel.app/api/wakatime?username=salunaalavi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
